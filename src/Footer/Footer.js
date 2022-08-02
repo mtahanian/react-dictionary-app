@@ -6,16 +6,7 @@ export default function Footer() {
     <div className="footer">
       <div>
         <Typography variant="body1">
-          Open Source on{" "}
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href={"https://github.com/mtahanian/react-dictionary-app"}
-          >
-            {" "}
-            Github{" "}
-          </a>{" "}
-          by Milad Tahanian
+          Designed and Developed by Milad Tahanian
         </Typography>
       </div>
     </div>
