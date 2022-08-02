@@ -10,12 +10,12 @@ export default function Footer() {
           <a
             target="_blank"
             rel="noreferrer"
-            href={"https://github.com/sintija/react-dictionary-app"}
+            href={"https://github.com/mtahanian/react-dictionary-app"}
           >
             {" "}
             Github{" "}
           </a>{" "}
-          by Sintija
+          by Milad Tahanian
         </Typography>
       </div>
     </div>
