@@ -1,7 +1,7 @@
 import React from "react";
 import Grid from "@material-ui/core/Grid";
 import { makeStyles } from "@material-ui/core/styles";
-import illustration from "../images/girl.svg";
+import illustration from "../images/Untitled-1 copy.jpg";
 
 const useStyles = makeStyles((theme) => ({
   root: {
